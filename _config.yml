@@ -1,0 +1,10 @@
+# Site settings
+title: Hackstub
+description: "Un hackerspace à Strasbourg"
+baseurl: ""
+url: "http://hackstub.netlib.re"
+github_username:  hackstub
+
+# Build settings
+markdown: kramdown
+permalink: pretty

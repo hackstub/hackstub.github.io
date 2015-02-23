@@ -1,0 +1,8 @@
+<figure class="projet">
+    {% if include.image %}
+        <img class="w150 h150" src="{{include.image}}" alt="{{include.description}}"/>
+    {% else %}
+    <div class="w150 h150 placeholder"><span>pas d'image</span></div>
+    {% endif %}
+    <figurecaption><a href="{{include.url}}">{{include.description}}</a></figurecaption>
+</figure>

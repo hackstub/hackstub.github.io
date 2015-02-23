@@ -1,0 +1,18 @@
+<header class="site-header">
+
+  <div class="wrap">
+
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+
+    <nav class="site-nav">
+      <div class="trigger">
+        {% assign pages = site.pages | sort:"weight"  %}
+        {% for p in pages reversed %}
+        {% if p.title %}<a class="page-link {{p.url === page.url ? 'active': '' }}" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>{% endif %}
+        {% endfor %}
+      </div>
+    </nav>
+
+  </div>
+
+</header>
