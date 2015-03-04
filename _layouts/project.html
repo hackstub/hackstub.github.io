@@ -1,0 +1,10 @@
+---
+layout: page
+---
+<div class="project">
+    {% if page.image %}
+        <img src="{{page.image}}">
+    {% endif %}
+    Repo: <a href="{{page.repo_url}}" target="_blank">{{page.title}}</a>
+    {{ content }}
+</div>

@@ -8,3 +8,9 @@ github_username:  hackstub
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+gems:
+    - jekyll-mentions
+    - jekyll-coffeescript
+    - jekyll-sitemap
+    - jemoji

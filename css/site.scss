@@ -1,0 +1,18 @@
+---
+---
+@import "reset";
+
+.hidden{
+    display: none;
+    visibility: hidden;
+}
+
+@import "main-navigation";
+
+h1{
+    display: none;
+}
+
+img {
+    width: 100%;
+}
