@@ -1,0 +1,48 @@
+                                                               .;cl:'                               
+                                                              ,OKKKKKx.                             
+                                                              oKKKKKK0'                             
+                                                              oKKKKKK0,                             
+                                                              oKKKKKK0,                             
+                                                              oKKKKKK0,                             
+                                                              oKKKKKK0,                             
+                                                              oKKKKKK0,                             
+                                                           .,cOKKKKKKKkc'.                          
+                                                       .'lk0KKKKKKKKKKKKKOd:.                       
+                            .'..                    .,oOKKKKKKKKKKKKKKKKKKKK0kc'.                   
+                          :k0KK0x.              .,lk0KKKKKKKKKKKKKKKKKKKKKKKKKKKOx:.                
+                         '0KKKKKKo           .:dOKKKKKKKKKKK0kOKKKKKKKkO0KKKKKKKKKK0kc,.            
+                         ,0KKKKKKd       .;dOKKKKKKKKKKKKOo,. oKKKKKK0, .:x0KKKKKKKKKKK0x,          
+                         ,0KKKKKKd    ':d0KKKKKKKKKKKKOl'     oKKKKKK0,    .;d0KKKKKKKKKK0,         
+          .;oxdc.        ,0KKKKKKd.;oOKKKKKKKKKKKKKKKK0d;.    oKKKKKK0,    'ckKKKKKKKKKKKO'         
+         .xKKKKKk'       ,0KKKKKKK0KKKKKKKKKKKKKKKKKKKKKK0x:'.oKKKKKK0;.;lkKKKKKKKKKKK0kl.          
+         ;0KKKKK0l       ,0KKKKKKKKKKKKKKK0kc',lk0KKKKKKKKKKK0KKKKKKKK0KKKKKKKKKKKKOo;.             
+         ;0KKKKK0l     .,oKKKKKKKKKKKK0Od:.      .:dO0KKKKKKKKKKKKKKKKKKKKKKKKK0xl,.                
+         ;0KKKKK0l  .:d0KKKKKKKKKKKKK0l.             .ck0KKKKKKKKKKKKKKKKKKKOd;.                    
+         ;0KKKKKKxlx0KKKKKKKKKKKKKKKKKKOo,.             .l0KKKKKKKKKKKKK0Oo,.                       
+         ;0KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK0xl,.       'lx0KKKKKKKKKKKOo;.                           
+         ;0KKKKKKKKKKKKKK0KKKKKKKK0KKKKKKKKKKK0d:..;oOKKKKKKKKKKK0kl'                               
+         ;0KKKKKKKKKK0xc':0KKKKKKx.,lOKKKKKKKKKKKKKKKKKKKKKKKKOo,.                                  
+         ;0KKKKKKKOd;.   ,0KKKKKKd    'lk0KKKKKKKKKKKKKKKK0kl,                                      
+         ;0KKKKKKo.      ,0KKKKKKd       'kKKKKKKKKKKKKko;.                                         
+         ;0KKKKK0l       ,0KKKKKKd       .OKKKKKKKK0kl'                                             
+         ;0KKKKK0l       ,0KKKKKKd        ,k0KK0kl'.                                                
+         ;0KKKKK0l       ,0KKKKKKd          .''.                                                    
+         ;0KKKKK0l       ,0KKKKKKd                                                                  
+         ;0KKKKK0l       ,0KKKKKKd                                                                  
+         ;0KKKKK0l       .kKKKKK0c                                                                  
+         ;0KKKKK0l        .lxOOx:                                                                   
+         ;0KKKKK0l                                                                                  
+         ;0KKKKK0l                                                                                  
+         ,0KKKKK0c                                                                                  
+         .o0KKKKx.                                                                                  
+           .,:;'                                                                                    
+                                                                                                    
+/* hackstub.github.io */
+
+/* TEAM */
+            Les membres d'Hackstub participants à des projets
+
+/* SITE */
+            Langage français
+            Doctype html5
+            Propos présenter les projets d'Hackstuvb
