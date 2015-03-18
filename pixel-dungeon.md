@@ -1,10 +1,11 @@
 ---
 layout: project
-image: "https://raw.githubusercontent.com/alexAubin/pixelDungeon/master/doc/BILD0348.JPG"
 permalink: /pixel-dungeon/
-repo_url: "https://github.com/alexAubin/pixelDungeon"
-title: Pixel dungeon
 weight: 1
+title: Pixel dungeon
+project:
+    image: "https://raw.githubusercontent.com/alexAubin/pixelDungeon/master/doc/BILD0348.JPG"
+    repository: "https://github.com/alexAubin/pixelDungeon"
 ---
 Contributeurs: @alexAubin
 

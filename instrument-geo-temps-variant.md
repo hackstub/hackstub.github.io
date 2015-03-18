@@ -1,9 +1,10 @@
 ---
 layout: project
 permalink: /instrument-geo-temps/
-title: Instrument de geo-temps variant
-repo_url: "https://github.com/hackstub/instrumentGeoTempsVariant"
 weight: 1
+title: Instrument de geo-temps variant
+project:
+    repository: "https://github.com/hackstub/instrumentGeoTempsVariant"
 ---
 Contributeurs: @Axolotle, @alexAubin
 

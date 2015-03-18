@@ -1,10 +1,11 @@
 ---
 layout: project
-image: "http://hackstub.netlib.re/wp-content/uploads/2015/02/IMG_20150208_154554-1024x759.jpg"
-title: Les hackteliers
-repo_url: "https://github.com/hackstub/atelierArduino"
 permalink: /hackteliers/
 weight: 1
+title: Les hackteliers
+project:
+    image: "http://hackstub.netlib.re/wp-content/uploads/2015/02/IMG_20150208_154554-1024x759.jpg"
+    repository: "https://github.com/hackstub/atelierArduino"
 ---
 Contributeurs: @alexAubin
 
